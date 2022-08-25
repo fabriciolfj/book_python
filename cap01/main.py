@@ -18,3 +18,5 @@ v4 = v1 * 3
 print(v4)
 print(abs(v1))
 print(bool(v1))
+v5 = abs(4)
+print(v5)
